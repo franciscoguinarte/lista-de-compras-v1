@@ -22,6 +22,7 @@ input[type="checkbox"]{
 
 .itemToAdd{
     min-width: 35vw;
+    font-size: 25px;
 }
 
 .inventoryResponse{
